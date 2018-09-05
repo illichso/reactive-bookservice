@@ -64,3 +64,6 @@ dist
 /patches/
 /backend/build/
 /frontend/build/
+
+out/
+
